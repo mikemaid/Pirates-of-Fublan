@@ -34,7 +34,7 @@ Control + F3 - Load Game
 Control + F4 - Quick save  
   
 ## Tips  
-- Type "/help" in the chat window to see commands and controls.  
+- Type "/help" in the chat window to view additional commands and controls.  
 - The first player to reach 5000 XP wins.  
 - XP can be obtained by killing hostile mobs and other players.  
 - Headshots do increased damage.  
