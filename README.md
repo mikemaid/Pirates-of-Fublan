@@ -1,4 +1,4 @@
-# Pirates of Fublan  
+# Pirates of Fublan | Download Standalone .exe →  
   
 <img src="https://github.com/mikemaid/Pirates-of-Fublan/raw/main/Pirate.png" width="100" height="100"/>
   
