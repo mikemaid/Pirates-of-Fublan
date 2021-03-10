@@ -40,3 +40,7 @@ Control + F4 - Quick save
 - Headshots do increased damage.  
 - Chests containing loot are generated at the center of the map and scattered throughout the rest of the map.  
 - If the game can’t detect another instance on your network, connect to it as a server using the other instance’s local ip address.  
+  
+## Server IPs  
+**149.28.121.189** (Chicago, IL)  
+**104.225.140.218** (Dallas, TX)
