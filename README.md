@@ -42,6 +42,6 @@ Control + F4 - Quick save
 - If the game can’t detect another instance on your network, connect to it as a server using the other instance’s local ip address.  
   
 ## Server IPs  
-**Worlds reset every 30 minutes**  
+* *Worlds reset every 30 minutes* *  
 **149.28.121.189** (Chicago, IL)  
 **104.225.140.218** (Dallas, TX)
