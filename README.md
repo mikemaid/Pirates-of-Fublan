@@ -1,5 +1,7 @@
 # Pirates of Fublan  
   
+![Alt text](Pirate.png?raw=true "Title")  
+  
 A 3D, multiplayer, battle royale game developed using the Unity engine.  
 
 In this game, you incur the role of a stranded pirate on a lush, tropical island where you must confront hungry cannibals, wild beasts, and your fellow crewmates for your survival.  
