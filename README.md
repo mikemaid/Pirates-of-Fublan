@@ -1,6 +1,6 @@
 # Pirates of Fublan  
   
-![Alt text](Pirate.png?raw=true)
+<img src="https://github.com/mikemaid/Pirates-of-Fublan/raw/main/Pirate.png" width="100" height="100"/>
   
 A 3D, multiplayer, battle royale game developed using the Unity engine.  
 
