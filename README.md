@@ -1,4 +1,4 @@
-# Pirates-of-Fublan  
+# Pirates of Fublan  
   
 A 3D, multiplayer, battle royale game developed using the Unity engine.  
 
@@ -6,16 +6,16 @@ In this game, you incur the role of a stranded pirate on a lush, tropical island
   
 The pirate ship has crashed into an island. You and your crewmates are now stranded. Luckily, there is a reserve boat, but it can only carry one pirate. You must battle it out against your crewmates and the creatures on the island. Only the fittest will prevail. The first to reach 5000 XP will make it out alive.  
   
-Designed and developed by Aaron Qi.  
+**Designed and developed by Aaron Qi.  
   
-# Other resources and dependencies  
+## Other resources and dependencies  
 Character models and world designed by Aaron Qi  
 Pirate voices by Aaron Qi  
 Mirror Networking  
-Sounds from:  
+**Sounds from:  
 https://opengameart.org/  
   
-# Controls  
+## Controls  
 W/A/S/D - Move player (front/left/back/right)  
 Left Shift - Hold to run  
 Q - Drops currently selected item  
@@ -31,7 +31,7 @@ F8 - Toggle FPS
 Control + F3 - Load Game  
 Control + F4 - Quick save  
   
-# Tips  
+## Tips  
 - Type /help in the chat window to see commands and controls.  
 - The first player to reach 5000 XP wins.  
 - XP can be obtained by killing hostile mobs and other players.  
