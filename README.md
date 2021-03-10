@@ -43,5 +43,6 @@ Control + F4 - Quick save
   
 ## Server IPs  
 *Worlds reset every 30 minutes*  
+  
 **149.28.121.189** (Chicago, IL)  
 **104.225.140.218** (Dallas, TX)
